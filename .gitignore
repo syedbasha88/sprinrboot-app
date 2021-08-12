@@ -10,5 +10,3 @@ target/*
 .sts4-cache/
 .vscode
 _site/
-ignorefile.htmli
-docker-compose.yml
